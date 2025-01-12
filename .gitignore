@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+Instance_key
+Instance_key.pub
+terraform.tfstate
+terraform.tfstate.backup
