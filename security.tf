@@ -22,6 +22,5 @@ resource "aws_security_group" "Instance_security" {
     to_port          = 0
     protocol         = "-1" # All traffic
     cidr_blocks      = ["0.0.0.0/0"]
-    ipv6_cidr_blocks = ["::/0"]
   }
 }
