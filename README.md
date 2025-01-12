@@ -4,7 +4,7 @@ This Terraform configuration creates a scalable deployment with multiple EC2 ins
 
 ## Infrastructure Diagram
 
-![Image Alt]()
+![Image Alt](https://github.com/DevopsDhruv/EC2-Instance_with_terraform/blob/main/EC2_Diagram.png?raw=true)
 
 ## Prerequisites
 
